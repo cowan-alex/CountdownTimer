@@ -1,5 +1,5 @@
 var actualTimer = $('.actualTimer');
-var countdownDate = new Date("July 19, 2019 09:00:00").getTime();
+var countdownDate = new Date("August 2, 2019 13:00:00").getTime();
 
 
 var oneSecond = setInterval(function() {
